@@ -1,0 +1,341 @@
+Índice del Manual de Juego
+
+1. Introducción
+2. ¿Qué Necesitas Para Jugar?
+3. Tablero y Escenario
+4. Misiones
+5. Jugabilidad
+6. Stats de Personajes
+7. Clases
+8. Acciones
+9. Ítems e Inventario
+10. Consecuencias y Efectos
+11. Inicio y Final del Juego
+12. Misceláneo
+
+
+1. Introducción
+Bienvenida al Mundo Mágico [OrdenInicio]
+Bienvenidos a este emocionante universo lleno de aventuras, desafíos y misterios. Este manual servirá como tu guía a lo largo de este viaje, ayudándote a entender las reglas, las mecánicas y las infinitas posibilidades que te esperan. Desde batallas épicas hasta intrincadas interacciones sociales, este mundo tiene algo para todos.
+
+¿Qué Es Este Juego?
+Este es un juego de rol en línea donde cada jugador asume el papel de un personaje único con habilidades y desafíos específicos. A través de una serie de misiones y aventuras, los jugadores colaborarán y competirán para lograr objetivos y superar obstáculos.
+
+Elección de Dificultad y Primeros Pasos [Dificultad]
+Al comenzar, tendrás que hacer algunas decisiones cruciales que afectarán todo tu viaje, como la elección de la dificultad del juego. Ya sea que prefieras un desafío más relajado o una experiencia intensa, esta elección establecerá el tono de tus aventuras.
+
+Tablero Virtual [Tablero]
+En este juego, el escenario es un mundo mágico creado por el Game Master (GM). Este mundo actúa como el tablero del juego, que se desarrolla de manera dinámica a medida que los jugadores avanzan en sus misiones.
+
+Objetivo del Juego [InicioFinal]
+El objetivo principal es completar la misión principal asignada al inicio del juego. Sin embargo, el camino está lleno de misiones secundarias y desafíos que pueden desviar o incluso mejorar tu viaje. El juego llega a su conclusión cuando se completa la misión principal o cuando todos los jugadores han sido eliminados.
+
+2. ¿Qué Necesitas Para Jugar?
+Cómo Jugar en Discord con GameMaster Bot
+Este manual está diseñado para jugadores que utilizarán Discord como plataforma y el GameMaster Bot para facilitar la jugabilidad. A continuación, se describen los pasos y requisitos necesarios para comenzar tu aventura.
+
+Invocación del Portal
+Descripción: La aventura comienza cuando el líder del juego invoca un portal especial en Discord.
+Comando: Utiliza el comando !AbrirPortal para iniciar el juego.
+Canal de Aventura [OrdenInicio]: Al invocar el portal, se crea un canal de texto llamado aventura-privada, donde se desarrollará toda la aventura.
+Todos los jugadores en línea recibirán una invitación para unirse al canal. Asegúrate de que los mensajes directos estén habilitados para recibir la invitación.
+
+Elección de Clases [Dificultad]
+Clases Disponibles: Las clases a elegir son Hechicero, Bárbaro, Pícaro, Elfo Oscuro, Elfo de Luz, Enano, Humano y Druida.
+La elección de la clase es obligatoria y determinará las habilidades y stats únicos de tu personaje durante la aventura.
+
+Jugabilidad [Tablero]
+Sistema de Turnos: La jugabilidad se basa en turnos, y en cada turno, tienes tres acciones posibles: Atacar, Defender y Huir.
+Dado de 20 Caras: El éxito o fracaso de una acción se determina lanzando un dado de 20 caras. El GameMaster Bot llevará a cabo esta tirada.
+Ítems y Stats [InicioFinal]
+Inventario: Durante la aventura, encontrarás y usarás ítems como armas, armaduras y pociones.
+Durabilidad y Reparación: Los ítems tienen una durabilidad limitada y pueden romperse. Si esto ocurre, un jugador con la clase Enano puede realizar reparaciones.
+Finalización de la Aventura
+Comando de Cierre: Una vez concluida la aventura, el líder del juego puede cerrar el portal con el comando !CerrarPortal.
+Fin del Juego [FinDelJuego]: Al usar este comando, el canal aventura-privada se eliminará, marcando el fin de la aventura.
+
+
+3. Tablero y Escenario
+Contexto Narrativo y Espacial
+En esta versión de Dungeons & Dragons, el "tablero" es un espacio imaginario construido a través de la narración del Game Master (GM) y la participación activa de los jugadores. Aquí, la imaginación y las palabras reemplazan las miniaturas y los mapas físicos. Pero como en cualquier versión de D&D, los elementos básicos como el terreno, los objetos y las estructuras (tags de 'Acciones de Exploración') son cruciales para la experiencia.
+
+El Rol del GM: El Diseñador del Mundo
+El GM se convierte en el arquitecto del mundo, diseñando escenarios que no solo son visuales sino también interactivos. Al describir una caverna oscura, el GM podría indicar oportunidades para acciones como "Esconderse" o "Explorar", dependiendo de los tags de 'Acciones de Combate' y 'Acciones de Exploración'. Esto abre un rango de posibilidades para los jugadores sobre cómo interactuar con el entorno.
+
+Navegación y Decisiones
+La navegación en este entorno se basa en elecciones narrativas. Por ejemplo, al llegar a una encrucijada, el GM podría usar tags relacionados con 'Acciones Sociales' y 'Acciones de Exploración' para enriquecer las opciones disponibles. "A la izquierda, escuchas el sonido de la risa y la música; parece un buen lugar para 'Hablar' o 'Negociar'. A la derecha, ves un bosque oscuro, un lugar que podría requerir habilidades de 'Exploración' o 'Esconderse'".
+
+Acciones y Reacciones
+La interacción con el mundo va más allá de simplemente moverse. Los jugadores pueden optar por 'Explorar' en busca de tesoros, 'Hablar' con NPCs para recopilar información o incluso 'Defender' una posición estratégica. El GM puede introducir elementos que requieran una variedad de acciones basadas en los tags proporcionados.
+
+Combate y Desafíos
+Los desafíos y encuentros son parte integral de cualquier aventura de D&D. Aquí, los jugadores pueden optar por 'Atacar', 'Defender', 'Curar' o incluso 'Huir', dependiendo de la situación. Al igual que en otros aspectos del juego, el GM utiliza tags para dar forma a estos encuentros, ofreciendo un abanico de opciones y posibles resultados.
+
+Adaptabilidad
+Esta modalidad de juego ofrece una flexibilidad única. Sin la necesidad de configuraciones físicas, los jugadores pueden sumergirse rápidamente en la aventura. Los tags actúan como guías versátiles que ayudan tanto al GM como a los jugadores a mantenerse en el camino de la historia mientras exploran múltiples facetas del juego.
+
+En resumen, el tablero y el escenario en este entorno de juego son un lienzo narrativo enriquecido por una serie de acciones posibles, indicadas por los tags. Estos actúan como piedras angulares que guían la interacción y la toma de decisiones, permitiendo una experiencia de juego rica y variada.
+
+4. Misiones
+Introducción a las Misiones
+Las misiones son el núcleo de cualquier aventura en Dungeons & Dragons, actuando como el motor que impulsa tanto la narrativa como el desarrollo del personaje. En este entorno, las misiones son presentadas por el Game Master (GM) y aceptadas por los jugadores, proporcionando estructura y dirección a la partida.
+
+Tipos de Misiones
+Las misiones pueden variar en complejidad y duración. Algunas pueden ser cortas y directas, como "Entregar un mensaje al rey", mientras que otras pueden ser largas y complejas, implicando múltiples objetivos, lugares y personajes no jugadores (NPCs). Estas misiones más largas pueden requerir una amplia gama de acciones, desde 'Negociar' con NPCs hasta 'Atacar' enemigos peligrosos, siguiendo los tags de 'Acciones Sociales' y 'Acciones de Combate'.
+
+Presentación y Aceptación
+El GM introduce una misión a través de una narrativa cuidadosamente construida o a través de NPCs. Los jugadores pueden optar por 'Hablar' o 'Negociar' con estos NPCs para obtener más detalles o beneficios adicionales, como información o ítems útiles. Aquí es donde los tags de 'Acciones Sociales' como 'Negociar' o 'Hablar' pueden entrar en juego.
+
+Etapas y Hitos
+Una misión típicamente se divide en varias etapas o hitos, cada uno con sus propios desafíos y oportunidades. Por ejemplo, una etapa podría implicar 'Explorar' una cueva para encontrar un objeto mágico, mientras que la siguiente podría ser 'Atacar' o 'Defenderse' de un grupo de enemigos que custodian el objeto. Estas etapas son diseñadas para ofrecer oportunidades para una variedad de acciones, permitiendo a los jugadores utilizar una amplia gama de habilidades y estrategias.
+
+Resolución y Recompensas
+Al completar una misión, los jugadores suelen recibir recompensas que pueden incluir oro, ítems, o incluso nuevos aliados. El tipo y la cantidad de recompensas pueden variar según cómo los jugadores hayan manejado situaciones y desafíos anteriores. Por ejemplo, usar 'Persuadir' con éxito en un NPC podría resultar en recompensas adicionales, mientras que 'Amenazar' podría tener consecuencias negativas en futuras interacciones.
+
+Flexibilidad y Adaptabilidad
+El diseño abierto de las misiones en este entorno permite una gran flexibilidad. Los jugadores pueden optar por abordar objetivos en un orden diferente o incluso encontrar soluciones creativas que el GM no había considerado. Los tags actúan como guías flexibles que pueden adaptarse a una variedad de situaciones, lo que permite a los jugadores y al GM co-crear una historia dinámica y envolvente.
+
+En resumen, las misiones ofrecen una estructura que guía la aventura, pero con suficiente flexibilidad para permitir la creatividad y la toma de decisiones de los jugadores. Los tags sirven como herramientas que enriquecen esta estructura, ofreciendo una amplia gama de posibilidades para la interacción y el desarrollo de la historia.
+
+5. Jugabilidad
+Estructura General y Flujo del Juego
+La esencia de la jugabilidad en Dungeons & Dragons reside en una estructura de turnos y rondas, que establece un ritmo y una secuencia para las acciones y decisiones de los jugadores. En este entorno, cada jugador dispone de un turno por ronda para llevar a cabo una serie de acciones, que pueden abarcar desde el movimiento y la interacción hasta el combate y el uso de habilidades o ítems.
+
+Turnos y Acciones: El Núcleo de la Jugabilidad
+Durante su turno, cada jugador tiene la oportunidad de realizar diversas acciones que se dividen en varias categorías, reflejadas en los tags como 'Acciones de Combate', 'Acciones Sociales', 'Acciones de Exploración', 'Acciones Mágicas' y 'Otras Acciones'. Por ejemplo, en un turno, un jugador podría elegir 'Atacar' a un enemigo, 'Hablar' con un NPC para obtener información, o 'Explorar' una habitación en busca de pistas o tesoros.
+
+El Dado de 20 Caras: El Motor de la Incertidumbre
+Un elemento distintivo en este entorno es el uso de un dado de 20 caras (d20) para determinar el éxito o el fracaso de las acciones. Ya sea que estés intentando 'Atacar' a un enemigo o 'Negociar' un trato, lanzarás un d20 para determinar el resultado. Este mecanismo introduce un nivel de azar y excitación, haciendo que cada acción tenga riesgos y recompensas potenciales.
+
+Interacción con el Entorno: Más Allá del Personaje
+Además de las acciones directas, los jugadores también tienen la oportunidad de interactuar con su entorno de diversas maneras. Pueden decidir 'Explorar' un área para encontrar objetos útiles, 'Examinar' artefactos para descubrir sus propiedades o 'Usar' elementos en su entorno para resolver problemas o superar obstáculos. Cada una de estas acciones también está sujeta a una tirada de d20, lo que añade una capa de complejidad y emoción.
+
+Estrategia y Toma de Decisiones: El Corazón del Juego
+La jugabilidad no se limita a reacciones instintivas; también ofrece espacio para la estrategia y la planificación. Los jugadores pueden colaborar para decidir si es mejor 'Defender' una posición estratégica mientras esperan refuerzos o 'Atacar' de forma proactiva. Las decisiones estratégicas pueden influir en el transcurso de una misión o incluso en el resultado final de la aventura.
+
+Consecuencias y Resultados: Acciones y Reacciones
+Cada acción tiene un impacto en el mundo del juego y conlleva consecuencias, tanto positivas como negativas. Un intento exitoso de 'Persuadir' a un NPC podría abrir nuevas vías de exploración o evitar un combate innecesario. Por otro lado, un 'Ataque' fallido podría poner al grupo en una situación peligrosa, requiriendo rápidas decisiones y posiblemente nuevas tiradas de d20 para salir del apuro.
+
+Adaptabilidad: La Belleza de la Flexibilidad
+Uno de los aspectos más atractivos de la jugabilidad en este entorno es su adaptabilidad. La estructura de turnos permite un flujo de juego que se adapta al ritmo de los jugadores y a las situaciones que surgen. Los tags funcionan como un sistema flexible de reglas que guían la acción sin restringir la creatividad o la improvisación.
+
+En resumen, la jugabilidad en este contexto de D&D es un entrelazado de acciones, decisiones, y tiradas de dados que crea una experiencia dinámica y emocionante. Los tags actúan como un marco que enriquece esta experiencia, ofreciendo una amplia gama de posibilidades para la interacción, la estrategia, y el desarrollo de la historia.
+
+6. Stats de Personajes
+Introducción a las Estadísticas
+En Dungeons & Dragons, las estadísticas del personaje son cruciales para entender las habilidades, fortalezas y debilidades de tu personaje. Estas estadísticas influyen en todo, desde la efectividad en el combate hasta la capacidad para llevar a cabo tareas específicas, como resolver acertijos o interactuar con otros personajes.
+
+Los Seis Atributos Básicos
+Los personajes se definen principalmente por seis atributos: Fuerza, Destreza, Constitución, Inteligencia, Sabiduría y Carisma. Estos atributos se determinan al inicio del juego y se utilizan para calcular una variedad de estadísticas secundarias y modificadores, que a su vez influyen en las tiradas de dados.
+
+Influencia en Acciones y Decisiones
+Los atributos y estadísticas de tu personaje tendrán un impacto significativo en las acciones que puedas realizar efectivamente. Por ejemplo, un personaje con un alto nivel de Destreza podría ser más efectivo en acciones de 'Ataque' o 'Esconderse', siguiendo los tags de 'Acciones de Combate' y 'Acciones de Exploración'.
+
+Habilidades y Talentos
+Además de los atributos básicos, los personajes tienen habilidades y talentos que les permiten especializarse en ciertas áreas. Por ejemplo, un personaje con el talento de "Diplomacia" podría tener ventajas al 'Negociar' o 'Hablar', acciones que caen bajo el tag de 'Acciones Sociales'.
+
+El Papel del Dado de 20 Caras
+Cada acción, desde 'Atacar' a 'Negociar', generalmente implica una tirada de un dado de 20 caras (d20) para determinar su éxito. Las estadísticas y habilidades del personaje se suman como modificadores a esta tirada, afectando así la probabilidad de éxito. Por ejemplo, si intentas 'Atacar', lanzarás un d20 y agregarás tu modificador de Fuerza o Destreza, dependiendo del arma que estés usando.
+
+Equipo e Ítems
+Los personajes también pueden adquirir equipo e ítems que afectan sus estadísticas. Una armadura pesada podría mejorar tu capacidad para 'Defender', pero podría penalizar acciones que requieran movilidad, como 'Esconderse' o 'Explorar'. La elección del equipo es otra capa de estrategia que se suma a la complejidad y la inmersión del juego.
+
+Progresión y Desarrollo
+A medida que los personajes avanzan en la historia y completan misiones, tienen la oportunidad de mejorar sus estadísticas y adquirir nuevas habilidades. Este desarrollo no solo es una recompensa por los desafíos superados, sino que también prepara al personaje para desafíos más grandes en el futuro.
+
+Adaptabilidad y Personalización
+La belleza de este sistema de estadísticas radica en su flexibilidad y capacidad para adaptarse a diferentes estilos de juego. No hay un "mejor" conjunto de estadísticas; todo depende de cómo quieras jugar y qué desafíos desees enfrentar. Los tags proporcionados actúan como un marco flexible que ayuda a los jugadores y al GM a mantener la coherencia en este sistema complejo pero adaptable.
+
+En resumen, las estadísticas del personaje son el pilar que sostiene cada acción, decisión y resultado en el juego. Proporcionan la estructura necesaria para entender las capacidades de tu personaje, al mismo tiempo que ofrecen suficiente flexibilidad para permitir una amplia gama de estilos de juego y estrategias.
+
+7. Clases
+Elección de Clases Disponibles
+Los jugadores tienen la opción de elegir entre nueve clases únicas: Hechicero, Bárbaro, Pícaro, Elfo Oscuro, Elfo de Luz, Enano, Humano, Druida y Orco. Cada una ofrece un conjunto distinto de habilidades, stats únicos, fortalezas y debilidades.
+
+Hechicero
+Descripción: Los Hechiceros son maestros de la magia elemental y las artes arcanas. Pueden lanzar conjuros devastadores y manipular el entorno a su favor.
+Habilidades Especiales: Conjuros elementales, invocación de criaturas.
+Stat Único: Maná, que se utiliza para lanzar conjuros.
+Tags de Fortalezas: [Potente en magia ofensiva, Control del campo de batalla]
+Tags de Debilidades: [Baja resistencia física, Limitado en combate cercano]
+Bárbaro
+Descripción: Los Bárbaros son guerreros feroces que canalizan su ira para infligir daño masivo y resistir ataques enemigos.
+Habilidades Especiales: Furia, resistencia al daño.
+Stat Único: Rabia, que aumenta con el daño recibido y puede desencadenar habilidades especiales.
+Tags de Fortalezas: [Alto daño en combate cercano, Gran resistencia]
+Tags de Debilidades: [Poco versátil, Limitado en ataques a distancia]
+Pícaro
+Descripción: Los Pícaros son expertos en el arte del sigilo y la evasión, capaces de infiltrarse en lugares fuertemente custodiados y eliminar objetivos con precisión.
+Habilidades Especiales: Sigilo, ataques críticos.
+Stat Único: Astucia, que mejora las habilidades de sigilo y los ataques críticos.
+Tags de Fortalezas: [Excelente en evasión, Daño crítico elevado]
+Tags de Debilidades: [Baja resistencia, Limitado en combate frontal]
+Elfo Oscuro
+Descripción: Los Elfos Oscuros son seres misteriosos con afinidad por la magia oscura y las artes del sigilo.
+Habilidades Especiales: Magia oscura, sigilo.
+Stat Único: Energía Oscura, que potencia habilidades y conjuros oscuros.
+Tags de Fortalezas: [Versátil en magia y sigilo, Buen control del campo]
+Tags de Debilidades: [Vulnerable a ataques físicos, Limitado en combate directo]
+Elfo de Luz
+Descripción: Los Elfos de Luz son seres celestiales con una profunda conexión con los elementos y una maestría en arquería.
+Habilidades Especiales: Magia elemental, arquería.
+Stat Único: Energía de Luz, que potencia conjuros y ataques a distancia.
+Tags de Fortalezas: [Excelente en ataques a distancia, Variedad de conjuros]
+Tags de Debilidades: [Baja resistencia, Limitado en combate cercano]
+Enano
+Descripción: Los Enanos son personajes robustos y resistentes, conocidos por su habilidad para resistir grandes cantidades de daño y desactivar trampas.
+Habilidades Especiales: Resistencia, detección de trampas.
+Stat Único: Robustez, que aumenta la resistencia a daños y habilidades defensivas.
+Tags de Fortalezas: [Excelente en defensa, Alta resistencia]
+Tags de Debilidades: [Limitado en movilidad, Poco versátil]
+Humano
+Descripción: Los Humanos son la clase más versátil, capaces de adaptarse y sobresalir en una variedad de roles y situaciones.
+Habilidades Especiales: Versatilidad, adaptabilidad.
+Stat Único: Ingenio, que permite una mayor flexibilidad en la elección de habilidades y acciones.
+Tags de Fortalezas: [Altamente adaptable, Versátil en roles]
+Tags de Debilidades: [No especializado, Menor impacto en roles específicos]
+Druida
+Descripción: Los Druidas son protectores de la naturaleza con la habilidad de transformarse en diferentes animales y sanar a sus aliados.
+Habilidades Especiales: Transformación, sanación.
+Stat Único: Energía Natural, que se utiliza para habilidades relacionadas con la naturaleza.
+Tags de Fortalezas: [Excelente en sanación, Versátil en formas animales]
+Tags de Debilidades: [Limitado en daño directo, Vulnerable en ciertas formas]
+Orco
+Descripción: Los Orcos son guerreros brutales, conocidos por su ferocidad en el combate y su capacidad para intimidar a sus enemigos.
+Habilidades Especiales: Ataques brutales, intimidación.
+Stat Único: Ferocidad, que mejora la potencia de los ataques y habilidades de intimidación.
+Tags de Fortalezas: [Alto daño en combate, Excelente en intimidación]
+Tags de Debilidades: [Limitado en defensa, Pobre en habilidades mágicas]
+
+8. Acciones
+Introducción a las Acciones
+El concepto de "Acciones" es fundamental para entender cómo se desarrollan las interacciones en este juego. Ya sea en el calor del combate, en las tensas negociaciones sociales, o mientras se explora un entorno desconocido, cada acción que elige un jugador puede tener un impacto significativo. Dependiendo de la clase y el equipo del personaje, así como de la situación en la que se encuentren, diferentes tipos de acciones estarán disponibles y serán más o menos efectivas.
+
+Acciones de Combate
+Descripción: Las Acciones de Combate son aquellas que los personajes realizan en el fragor de la batalla. Esto incluye acciones como 'Atacar', 'Defender', 'Esquivar' y 'Usar Objeto'.
+Clases Especializadas: Bárbaro, Orco, Enano.
+Fortalezas y Debilidades: Las Acciones de Combate son generalmente fuertes en términos de infligir daño o proteger a los aliados, pero a menudo dejan al personaje vulnerable a ciertas formas de contraataque o represalias.
+Estas acciones son fundamentales para determinar el resultado de una lucha. Un Bárbaro podría optar por una acción 'Atacar' de alto riesgo y alto rendimiento, mientras que un Enano podría elegir 'Defender', centrándose en proteger a sus aliados y absorber daño.
+
+Acciones Sociales
+Descripción: Las Acciones Sociales cubren un rango de interacciones que van más allá del combate, como 'Negociar', 'Persuadir', 'Engañar' y 'Intimidar'.
+Clases Especializadas: Humano, Elfo de Luz, Elfo Oscuro.
+Fortalezas y Debilidades: Aunque estas acciones no infligen daño físico, pueden tener un impacto profundo en la trama y en las relaciones entre personajes.
+Por ejemplo, un Humano con alta puntuación en Carisma podría utilizar la acción 'Persuadir' para evitar un conflicto inminente, o un Elfo Oscuro podría usar 'Intimidar' para obtener información crucial. Cada acción social tiene su propio conjunto de reglas y resultados posibles, lo que añade una capa de complejidad y estrategia a las interacciones del juego.
+
+Acciones de Exploración
+Descripción: Estas acciones incluyen 'Explorar', 'Esconderse', 'Desactivar Trampas', 'Buscar' y más.
+Clases Especializadas: Pícaro, Enano, Elfo Oscuro.
+Fortalezas y Debilidades: Estas acciones son vitales para la navegación segura y la adquisición de recursos, pero también pueden ser arriesgadas.
+Un Pícaro podría usar su habilidad 'Esconderse' para evitar enemigos, mientras que un Enano podría utilizar 'Buscar' para encontrar recursos valiosos. Estas acciones son cruciales para la preparación y el posicionamiento, y elegir la acción incorrecta en el momento equivocado podría llevar a desastres.
+
+Acciones Mágicas
+Descripción: Incluyen acciones como 'Lanzar Conjuros', 'Invocar' y 'Curar'.
+Clases Especializadas: Hechicero, Druida, Elfo de Luz, Elfo Oscuro.
+Fortalezas y Debilidades: Muy poderosas pero limitadas en uso y sujetas a interrupción.
+Un Hechicero podría elegir 'Lanzar Conjuros' para desatar un hechizo devastador, pero esto podría agotar su Maná, su stat único. Los Druidas, con su habilidad para 'Curar', pueden cambiar el rumbo de una batalla pero son vulnerables mientras lo hacen.
+
+Acciones Específicas de Clase
+Cada clase tiene su propio conjunto de acciones únicas que reflejan sus habilidades y stats únicos. Los Bárbaros tienen la capacidad de entrar en 'Furia', lo que aumenta su poder de ataque y resistencia pero los hace más vulnerables a ciertos ataques. Los Hechiceros pueden 'Invocar' criaturas mágicas para asistir en combate, mientras que los Druidas pueden 'Transformarse' en diferentes formas animales, cada una con sus propias habilidades y limitaciones.
+
+Importancia de la Elección de Acciones
+La elección de acciones en cada turno es una parte crítica de la estrategia del juego. Elegir la acción correcta en el momento correcto puede ser la diferencia entre el éxito y el fracaso en un desafío. Cada acción tiene sus propias fortalezas y debilidades, y parte de la habilidad del juego radica en saber cuándo y cómo utilizar cada acción para maximizar su efectividad.
+
+9. Ítems e Inventario
+Introducción a los Ítems e Inventario
+En el juego, los ítems juegan un papel crucial, permitiendo a los personajes mejorar sus habilidades, recuperarse y realizar una serie de otras funciones útiles. Cada personaje tiene un inventario en el que pueden almacenar y gestionar sus ítems.
+
+Tipos de Ítems
+Descripción: Los ítems se dividen en varias categorías, como 'Armas', 'Pociones', 'Armaduras', 'Materiales Mágicos', y 'Objetos Misceláneos'.
+Clases Especializadas: Depende del tipo de ítem y su utilidad para cada clase.
+Fortalezas y Debilidades: Cada ítem tiene su propio conjunto de ventajas y desventajas, y su efectividad puede variar según la situación.
+Armas
+Descripción: Las armas son fundamentales para las 'Acciones de Combate', como 'Atacar'.
+Clases Especializadas: Bárbaro, Orco, Pícaro.
+Tags de Fortalezas y Debilidades: [Alto daño, Variedad de rangos] y [Requiere habilidad, Puede romperse]
+Las armas pueden variar desde espadas y arcos hasta bastones mágicos. Cada tipo de arma es más adecuado para ciertas clases y estilos de juego.
+
+Pociones
+Descripción: Las pociones ofrecen una variedad de efectos, como la curación de vida o la restauración de stats únicos.
+Clases Especializadas: Druida, Hechicero.
+Tags de Fortalezas y Debilidades: [Efecto instantáneo, Portátil] y [Limitado en cantidad, Único uso]
+Las pociones son especialmente útiles en situaciones apretadas donde se necesita una solución rápida. Sin embargo, su uso es único y se consumen tras su aplicación.
+
+Armaduras
+Descripción: Las armaduras se usan para mejorar la defensa de un personaje.
+Clases Especializadas: Enano, Bárbaro.
+Tags de Fortalezas y Debilidades: [Mejora la defensa, Duradero] y [Limita la movilidad, Requiere mantenimiento]
+Las armaduras pueden variar desde simples cueros hasta pesadas corazas de metal. Es crucial elegir la armadura que mejor se adapte a tu clase y estilo de juego.
+
+Materiales Mágicos
+Descripción: Estos son componentes que se utilizan en 'Acciones Mágicas' como 'Lanzar Conjuros'.
+Clases Especializadas: Hechicero, Druida.
+Tags de Fortalezas y Debilidades: [Potencia hechizos, Versátil] y [Escaso, Requiere conocimiento]
+Los materiales mágicos son esenciales para clases que se centran en la magia, ya que a menudo son necesarios para lanzar conjuros más potentes.
+
+Objetos Misceláneos
+Descripción: Esta categoría incluye todo, desde herramientas y kits de primeros auxilios hasta artefactos raros.
+Clases Especializadas: Todas.
+Tags de Fortalezas y Debilidades: [Amplia utilidad, Fácil de almacenar] y [Efecto limitado, Puede ser caro]
+Estos ítems son útiles en una variedad de situaciones y suelen tener propósitos muy específicos, como resolver acertijos o desactivar trampas.
+
+Gestión del Inventario
+La gestión del inventario es un aspecto clave del juego. Cada personaje tiene un límite de espacio, y elegir qué llevar y qué dejar atrás puede ser crucial. Es posible comerciar ítems con otros jugadores o con NPC, lo que añade una capa adicional de estrategia y planificación.
+
+10. Consecuencias y Efectos [ConsecuenciasYEfectos]
+En el transcurso del juego, cada acción tomada (o no tomada) por los personajes jugadores (PJs) tiene un impacto que va más allá del momento inmediato. Este punto tiene como objetivo desglosar qué tipo de consecuencias y efectos pueden esperar los PJs en función de sus acciones o inacciones.
+
+Consecuencias Inmediatas [ConsecuenciasInmediatas]
+Fallo en Ataque [Atacar]: Si un PJ falla en un intento de ataque, podría estar expuesto a un contraataque del enemigo, recibiendo daño en el proceso.
+
+Fallo en Defensa [Defender]: Un fallo al intentar defenderse podría resultar en una cantidad significativa de daño recibido y posiblemente condiciones adversas como ser aturdido o envenenado.
+
+Efectos de Ítems [Items]: Utilizar un ítem de manera incorrecta o en el momento equivocado podría resultar en efectos negativos, como desperdiciar un recurso valioso o incluso dañar a aliados.
+
+Efectos a Largo Plazo [EfectosLargoPlazo]
+Agotamiento de Stats [Stats]: Las acciones continuas como correr, atacar, o utilizar habilidades mágicas pueden llevar a un agotamiento de los stats del PJ, afectando su rendimiento en futuros turnos.
+
+Reputación y Alianzas [Reputación]: Las decisiones tomadas durante las misiones pueden afectar la forma en que los PNJs y otros PJs perciben a tu personaje, lo cual podría abrir o cerrar oportunidades futuras.
+
+Condiciones Persistentes [Condiciones]: Algunos efectos, como enfermedades o maldiciones, pueden tener un impacto duradero en el PJ hasta que se resuelvan.
+
+11. Inicio y Final del Juego
+Orden de Inicio [OrdenInicio]
+Bienvenida y Contexto del Mundo: La partida se inicia con una cálida bienvenida a los jugadores y una introducción al mundo mágico en el que se desarrollará la aventura. Este es el primer contacto con el ambiente y el lore del juego.
+
+Elección de Dificultad [Dificultad]: Los jugadores deben elegir entre dos niveles de dificultad: Normal y Difícil.
+
+Normal: Los enemigos son más débiles y la suerte en los dados está balanceada.
+Difícil: Los enemigos son más fuertes y los dados suelen ser desfavorables para los personajes jugadores (PJ).
+Elegir una dificultad es OBLIGATORIO para avanzar en el juego.
+
+Selección de Clase y Personajes: A continuación, cada jugador debe elegir una clase para su personaje. Se muestra a los jugadores los stats e inventario iniciales de cada clase para facilitar su elección. Esta elección es también OBLIGATORIA.
+
+Primera Misión [InicioMisión]: Una vez que todos los jugadores han elegido una clase, se les asigna su primera misión. Esta misión sirve como introducción a las mecánicas del juego y al tipo de desafíos que enfrentarán.
+
+Tablero y Desarrollo del Juego [Tablero]
+Descripción: El Game Master (GM) crea un mundo mágico que incluye una aventura principal y misiones secundarias que pueden surgir durante la aventura. Este mundo actúa como el tablero del juego, donde los jugadores interactuarán y enfrentarán desafíos.
+Final del Juego [InicioFinal]
+Misiones Secundarias y Principales: Durante el juego, los jugadores tendrán oportunidades para completar misiones secundarias y avanzar en la misión principal. Cada vez que se inicia una misión secundaria, se coloca el tag [InicioMisión], y al completarla, se coloca el tag [MisiónCumplida].
+
+Conclusión del Juego: Al completar la misión principal, el juego llega a su fin. Se muestra a los jugadores el resultado de sus acciones y decisiones a lo largo del juego, culminando en un desenlace que puede variar dependiendo de sus elecciones.
+
+12. Miscelaneo
+Miscelaneo
+¿Qué Puede Hacer un PJ? [PJs]
+Interacción con el Entorno [Exploración]: Los PJs tienen la capacidad de interactuar de manera significativa con su entorno. Pueden hablar con personajes no jugadores (PNJs), examinar objetos, resolver acertijos y descubrir secretos ocultos. Estas acciones pueden desencadenar eventos especiales, descubrir misiones secundarias y obtener recompensas útiles como artefactos mágicos.
+
+Combate y Estrategia [EstrategiaDeCombate]: Los PJs pueden atacar, defender, usar habilidades especiales y consumir ítems durante el combate. La dinámica de la batalla puede cambiar rápidamente dependiendo de la estrategia adoptada, lo que permite una gran variedad de enfoques tácticos.
+
+Realizar Misiones y Aventuras [MisionesYDesafios]: Aparte de las misiones principales, los PJs pueden embarcarse en misiones secundarias, desafíos y aventuras paralelas que enriquecen la experiencia de juego y ofrecen recompensas adicionales.
+
+Colaboración y Competencia [CooperaciónYRivalidad]: Los PJs tienen la opción de colaborar para resolver puzzles, derrotar enemigos más fuertes y compartir recursos. Sin embargo, también pueden entrar en rivalidades por recursos limitados o desafíos de PvP (Jugador contra Jugador).
+
+¿Qué No Puede Hacer un PJ? [LimitacionesPJ]
+Acciones Fuera de Turno [Turnos]: Los PJs no pueden realizar acciones cuando no es su turno en el sistema de juego basado en turnos, incluido el uso de ítems o habilidades especiales.
+
+Violación de las Reglas de Clase [RestriccionesDeClase]: Cada clase tiene sus propias habilidades y restricciones. Un PJ no puede, por ejemplo, usar una espada si su clase solo permite el uso de magia.
+
+Alterar el Mundo a Voluntad [MundoInmutable]: Los PJs no tienen la capacidad de hacer cambios drásticos en el mundo sin la aprobación del GM. Esto incluye intentos de destruir elementos clave del entorno o alterar la trama principal.
+
+Evadir Consecuencias [Consecuencias]: Los PJs deben enfrentar las consecuencias de sus acciones, tanto buenas como malas. Esto podría incluir pérdida de reputación, castigos legales, o incluso la muerte del personaje.

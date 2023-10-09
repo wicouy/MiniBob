@@ -1,0 +1,208 @@
+{
+  "Acciones de Combate": [
+    {
+      "etiqueta": "Atacar",
+      "descripcion": "Aplique esta etiqueta cuando un personaje realiza una acción ofensiva con la intención de infligir daño físico o mágico a un enemigo, objeto o estructura."
+    },
+    {
+      "etiqueta": "Defender",
+      "descripcion": "Aplique esta etiqueta cuando un personaje adopta una postura defensiva o utiliza habilidades y objetos para mitigar o bloquear ataques entrantes."
+    },
+    {
+      "etiqueta": "Curar",
+      "descripcion": "Aplique esta etiqueta cuando un personaje utiliza habilidades, hechizos o ítems para restaurar puntos de vida o eliminar condiciones negativas como venenos o enfermedades."
+    },
+    {
+      "etiqueta": "Huir",
+      "descripcion": "Aplique esta etiqueta cuando un personaje toma la decisión de retirarse de una batalla o situación peligrosa para evitar daños o consecuencias negativas."
+    },
+    {
+      "etiqueta": "Esconderse",
+      "descripcion": "Aplique esta etiqueta cuando un personaje busca ocultarse de la vista de enemigos o peligros, generalmente para evitar el combate o preparar una emboscada."
+    }
+  ],
+  "Acciones Sociales": [
+    {
+      "etiqueta": "Negociar",
+      "descripcion": "Aplique esta etiqueta cuando un personaje intenta llegar a un acuerdo o resolver un conflicto mediante conversación, persuasión o intercambio de bienes."
+    },
+    {
+      "etiqueta": "Hablar",
+      "descripcion": "Aplique esta etiqueta cuando un personaje interactúa verbalmente con otros personajes, ya sea para intercambiar información, dar órdenes o entablar una conversación."
+    },
+    {
+      "etiqueta": "Persuadir",
+      "descripcion": "Aplique esta etiqueta cuando un personaje utiliza habilidades de persuasión o encanto para influir en las decisiones o acciones de otros personajes."
+    },
+    {
+      "etiqueta": "Amenazar",
+      "descripcion": "Aplique esta etiqueta cuando un personaje utiliza intimidación o muestra de fuerza para coaccionar a otros personajes a seguir una determinada línea de acción."
+    }
+  ],
+  "Acciones de Exploración": [
+    {
+      "etiqueta": "Explorar",
+      "descripcion": "Aplique esta etiqueta cuando un personaje se involucra en la exploración de un nuevo entorno, busca objetos ocultos o investiga áreas no descubiertas."
+    },
+    {
+      "etiqueta": "Recolectar",
+      "descripcion": "Aplique esta etiqueta cuando un personaje recolecta recursos naturales, ítems o tesoros, ya sea a través de la búsqueda, el saqueo o la extracción."
+    },
+    {
+      "etiqueta": "Investigar",
+      "descripcion": "Aplique esta etiqueta cuando un personaje realiza una búsqueda detallada de pistas, estudia un objeto en profundidad o se dedica a recopilar información sobre un tema específico."
+    }
+  ],
+  "Acciones Mágicas": [
+    {
+      "etiqueta": "Encantar",
+      "descripcion": "Aplique esta etiqueta cuando un personaje utiliza magia para conferir propiedades mágicas a un objeto o para beneficiar a otros personajes con efectos positivos."
+    },
+    {
+      "etiqueta": "Desencantar",
+      "descripcion": "Aplique esta etiqueta cuando un personaje utiliza habilidades o ítems para eliminar efectos mágicos, ya sean beneficiosos o perjudiciales, de un objeto o personaje."
+    },
+    {
+      "etiqueta": "Invocar",
+      "descripcion": "Aplique esta etiqueta cuando un personaje utiliza rituales o hechizos para convocar criaturas, espíritus o entidades a su presencia."
+    },
+    {
+      "etiqueta": "Teletransportar",
+      "descripcion": "Aplique esta etiqueta cuando un personaje cambia su ubicación de manera instantánea, ya sea a través de magia, portales o dispositivos especiales."
+    },
+    {
+      "etiqueta": "Transformar",
+      "descripcion": "Aplique esta etiqueta cuando un personaje cambia su forma o apariencia física, ya sea a través de magia, pociones o habilidades especiales."
+    }
+  ],
+  "Otras Acciones": [
+    {
+      "etiqueta": "Reparar",
+      "descripcion": "Aplique esta etiqueta cuando un personaje utiliza herramientas o habilidades para arreglar objetos rotos, mecanismos dañados o estructuras deterioradas."
+    },
+    {
+      "etiqueta": "Destruir",
+      "descripcion": "Aplique esta etiqueta cuando un personaje realiza acciones con el propósito de dañar, desmantelar o destruir un objeto, mecanismo o estructura."
+    },
+    {
+      "etiqueta": "Leer",
+      "descripcion": "Aplique esta etiqueta cuando un personaje se dedica a interpretar textos, mapas o símbolos, ya sea para obtener información o resolver acertijos."
+    },
+    {
+      "etiqueta": "Escribir",
+      "descripcion": "Aplique esta etiqueta cuando un personaje crea escritos, anotaciones o dibujos, ya sea para comunicación, documentación o creación de textos mágicos."
+    }
+  ],
+
+  "Orden de Inicio": [
+    {
+      "etiqueta": "OrdenInicio",
+      "descripcion": "Aplique esta etiqueta al inicio de la partida para marcar la fase donde los jugadores reciben una introducción al mundo, eligen la dificultad y seleccionan sus clases."
+    }
+  ],
+  "Dificultad": [
+    {
+      "etiqueta": "Dificultad",
+      "descripcion": "Aplique esta etiqueta cuando se presente la elección de dificultad del juego. Indica si el nivel es Normal o Difícil."
+    }
+  ],
+  "Inicio y Final de Misiones": [
+    {
+      "etiqueta": "InicioMisión",
+      "descripcion": "Aplique esta etiqueta cuando se inicia una nueva misión, ya sea principal o secundaria."
+    },
+    {
+      "etiqueta": "MisiónCumplida",
+      "descripcion": "Aplique esta etiqueta cuando se completa una misión, para indicar su finalización y desencadenar cualquier evento o recompensa relacionada."
+    }
+  ],
+  "Tablero y Desarrollo del Juego": [
+    {
+      "etiqueta": "Tablero",
+      "descripcion": "Aplique esta etiqueta para referirse al mundo mágico creado por el GM, que actúa como el tablero del juego."
+    }
+  ],
+  "Fin del Juego": [
+    {
+      "etiqueta": "FinDelJuego",
+      "descripcion": "Aplique esta etiqueta cuando se alcanza el final del juego, que puede ser cuando se completa la misión principal o cuando todos los jugadores han sido eliminados."
+    }
+  ],
+  "Miscelaneo": [
+    {
+      "etiqueta": "PJs",
+      "descripcion": "Aplique esta etiqueta para referirse a los Personajes Jugadores durante el juego."
+    },
+    {
+      "etiqueta": "PNJs",
+      "descripcion": "Aplique esta etiqueta para referirse a los Personajes No Jugadores controlados por el Game Master."
+    },
+    {
+      "etiqueta": "NPC",
+      "descripcion": "Aplique esta etiqueta para referirse a los Personajes No Controlables que son parte del entorno pero no tienen un papel activo en la trama."
+    },
+    {
+      "etiqueta": "GM",
+      "descripcion": "Aplique esta etiqueta para referirse al Game Master, quien dirige el juego y controla el mundo y los PNJs."
+    },
+    {
+      "etiqueta": "Exploración",
+      "descripcion": "Para marcar cualquier aspecto que involucre la exploración del mundo del juego."
+    },
+    {
+      "etiqueta": "EstrategiaDeCombate",
+      "descripcion": "Se utiliza cuando se discuten tácticas y estrategias de combate."
+    },
+    {
+      "etiqueta": "MisionesYDesafios",
+      "descripcion": "Para referirse a las misiones secundarias y desafíos que los PJs pueden enfrentar."
+    },
+    {
+      "etiqueta": "CooperaciónYRivalidad",
+      "descripcion": "Cuando se habla de la interacción entre PJs, ya sea colaborativa o competitiva."
+    },
+    {
+      "etiqueta": "LimitacionesPJ",
+      "descripcion": "Utilizado para señalar las restricciones generales que aplican a todos los PJs."
+    },
+    {
+      "etiqueta": "Turnos",
+      "descripcion": "Para indicar la mecánica de turnos en el juego."
+    },
+    {
+      "etiqueta": "RestriccionesDeClase",
+      "descripcion": "Etiqueta para las limitaciones específicas de cada clase de PJ."
+    },
+    {
+      "etiqueta": "MundoInmutable",
+      "descripcion": "Utilizado cuando se habla de las limitaciones del PJ para alterar el mundo del juego."
+    },
+    {
+      "etiqueta": "Consecuencias",
+      "descripcion": "Para señalar las consecuencias resultantes de las acciones de los PJs."
+    }
+  ],
+  "Consecuencias y Efectos": [
+    {
+        "etiqueta": "ConsecuenciasYEfectos",
+        "descripcion": "Para referirse al impacto y las repercusiones de las acciones de los PJs."
+    },
+    {
+        "etiqueta": "ConsecuenciasInmediatas",
+        "descripcion": "Se utiliza cuando se habla de las consecuencias que ocurren inmediatamente después de una acción."
+    },
+    {
+        "etiqueta": "EfectosLargoPlazo",
+        "descripcion": "Para discutir los efectos que tienen un impacto a lo largo del tiempo en el juego."
+    },
+    {
+        "etiqueta": "Reputación",
+        "descripcion": "Cuando se habla de cómo las acciones del PJ afectan su relación con otros personajes en el mundo del juego."
+    },
+    {
+        "etiqueta": "Condiciones",
+        "descripcion": "Utilizado para hablar de estados que afectan a los PJs durante un período prolongado."
+    }
+]
+
+}
