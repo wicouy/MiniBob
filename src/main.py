@@ -1,31 +1,28 @@
+# Clase: main.py
 import os
-import json
+from BertTraining import BertTraining  
 
-# Variable para controlar el reentrenamiento
-retraining = True  # Cambia a False si no quieres reentrenar
-
-def read_text_file(file_path):
-    with open(file_path, 'r', encoding='utf-8') as file:
-        return file.read()
-
-def read_json_file(file_path):
-    with open(file_path, 'r', encoding='utf-8') as file:
-        if file_path.endswith('.jsonl'):
-            return [json.loads(line) for line in file]
-        else:
-            return json.load(file)
-
+retraining = True  # Cambiar a False para no reentrenar
 script_directory = os.path.dirname(os.path.abspath(__file__))
+training_instance = BertTraining(script_directory, retraining)
+training_instance.maybe_train_or_load_model()
 
-# Leer archivos JSON y metadatos
-corrections_path = os.path.join(script_directory, "data", "docs", "corrections.jsonl")
-tags_path = os.path.join(script_directory, "data", "docs", "tags.json")
-metadata_path = os.path.join(script_directory, "data", "docs", "data.txt")
+while True:
+    input_question = input("Por favor, introduce tu pregunta (o escribe 'salir' para terminar): ")
+    if input_question.lower() == 'salir':
+        print("Saliendo del programa.")
+        break
 
-print("Cargando datos...")
-corrections_data = read_json_file(corrections_path)
-tags_data = read_json_file(tags_path)
-metadata_text = read_text_file(metadata_path)
-print("Datos cargados.")
+    input_context = input("Introduce el contexto para la pregunta: ")
 
-print(corrections_data)
+    # Comprobar si la longitud de los tokens es aceptable para el modelo BERT
+    tokens_question = training_instance.tokenizer.tokenize(input_question)
+    tokens_context = training_instance.tokenizer.tokenize(input_context)
+    
+    # Reservamos 3 para los tokens especiales [CLS], [SEP] y [SEP]
+    if len(tokens_question) + len(tokens_context) > 509:  
+        print("La combinación de pregunta y contexto es demasiado larga para el modelo. Por favor, hazla más corta.")
+        continue
+    
+    result = training_instance.predict(input_question, input_context)
+    print("Resultado de la predicción:", result)
